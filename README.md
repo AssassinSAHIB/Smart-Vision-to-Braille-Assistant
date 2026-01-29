@@ -1,0 +1,1 @@
+Here consists the codes of both ESP32 and Arduino UNO. We are using the "Master Slave" approach where ESP is used as the master and the arduino is used as the slave. ESP captures the picture with its camera and turns the picture into plain text(string) and passes it down to the Arduino where it handles ther rest.
